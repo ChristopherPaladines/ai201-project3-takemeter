@@ -202,3 +202,7 @@ When the default training settings produced a flatlined validation accuracy of 4
 
 **Annotation assistance:**
 Claude was not used to pre-label any examples in bulk. All 201 labels were assigned by me during manual review. Claude was consulted on individual uncertain posts during the annotation process as described in Instance 1 above.
+
+## Demo Video
+
+[Watch the demo here](https://www.loom.com/share/b6e635bd94944c60a37cba43cc4c84c2)
